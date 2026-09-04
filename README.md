@@ -27,6 +27,5 @@ The project analyzes 3,000 employee records and covers attrition rate, active em
 
 ### 🚀 Dashboard Snapshot
 <div align="center">
-  <img src="<img src="IMG-20260904-WA0025.jpg" width="100%" alt="HR Analytics Dashboard">
- width="100%" alt="HR Analytics Dashboard">
+  <img src="https://raw.githubusercontent.com/priyankabehura/HR-Attrition-Employee-Analysis/main/IMG-20260904-WA0025.jpg" width="100%" alt="HR Analytics Dashboard">
 </div>
